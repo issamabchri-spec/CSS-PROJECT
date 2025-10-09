@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    background-color: rgba(0, 153, 255, 0.988);
+    
+}  
+a   {
+    color:rgb(232, 13, 35);
+    font-size: 28px;
+    text-align: left;
+    font-family: "BBH Sans Bogle", sans-serif;
+  }
+  h1 {
+    font-family: BBH+Sans+Bogle;
+    font-size: 31px; 
+    color: white;
+    font-weight: 700; 
+    
+}
+h2 {
+    font-size: 30px;
+    color: rgb(69, 13, 28);
+    font-family: 'Poppins', sans-serif;
+}
+
+h4{
+    font-size:18px;
+    color:black;
+    
+}
+main{
+    font-size:24px;
+
+}
+
+

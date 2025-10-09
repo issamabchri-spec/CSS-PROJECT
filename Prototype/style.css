@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column; 
+    min-height: 100vh;
+    background: linear-gradient(to right, #a8edea, #fed6e3);
+  }
+  img{
+    margin-left: 570px;
+    border-radius: 10px;
+  }
+  .container {
+    flex: 1;  
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    margin: 20px auto;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+  }
+  
+  h1{
+    text-align: center;
+
+  }
